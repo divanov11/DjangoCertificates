@@ -1,7 +1,7 @@
 ![alt text](certificates/jane-doe/Django-Certificate.png)
 
 Congratulations 🥳
-If you're here, you've just succesfully completed and passed The Complete Django Course!
+If you're here, you've just completed The Django Course!
 
 ## Accessing your certificate
 1. 🗂️ Find the folder with your name on it 
@@ -9,9 +9,7 @@ If you're here, you've just succesfully completed and passed The Complete Django
 3. 🤨 Can't find your certificate? It may take up to 48 hours to proccess your completion and upload your certiticate. Check back in soon! 
 
 ## The Complete Django Course 
-Curious about the course? Join us on [Udemy](https://www.udemy.com/course/python-django-2021-complete-course/?couponCode=LEADERSALE24B) or [Teachable](https://dennisivy.teachable.com/p/django-beginners-course) and get your Django certificate! 👨‍🎓
-
-To receive your certificate after the course, you will need to pass the course quiz where your Django knowledge will be put to the test and verified upon completion. 
+Curious about the course? Join us on [Udemy](https://www.udemy.com/course/python-django-2021-complete-course/?couponCode=LEADERSALE24B) or [Teachable](https://dennisivy.teachable.com/p/django-beginners-course) and get your Django certificate! 👨‍🎓 
 
 
 ### 🤝 Connect
